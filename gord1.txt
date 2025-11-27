@@ -1,4 +1,7 @@
 Gord1 fitxategia
 Gord1 lerro berria
 3. lerroa
+<<<<<<< HEAD
 3. lerroa main adarretik
+=======
+>>>>>>> probak1
